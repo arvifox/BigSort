@@ -8,4 +8,4 @@ Task #1
 to create file of specific size
 
 Task #2
-to sort the file.  Firstly sort by string, then sort by uint32
+to sort the file.  Firstly sort by string, then sort by uint32 if the strings are equal.
